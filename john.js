@@ -1,2 +1,3 @@
 const mes = "New File"
-console.log(`This is duke's ${mes}`)
+const name = "duke"
+console.log(`This is ${name}'s ${mes}`)
